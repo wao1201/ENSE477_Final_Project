@@ -1,0 +1,34 @@
+
+/*For the sub menu tabs*/
+#submenu {margin-left:auto; margin-right:auto; width: 80%; color:#919191;padding-left: 150px;}
+#submenu .tab {
+    margin-left: 28px;
+    float: left;
+    background: -webkit-linear-gradient(white, #EEEEEE); /* For Safari */
+    background: -o-linear-gradient(white, #EEEEEE); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white, #EEEEEE); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white, #EEEEEE); /* Standard syntax */
+    width: 85px;
+    padding: 9px; 0px;
+    border-radius: 5px;
+    border: 1px solid;
+    text-align: center;
+}
+#submenu a {
+    color: #919191;
+    text-decoration:none;
+}
+#submenu a:hover{
+    color: #000000;
+    text-decoration: underline;
+}
+/*end submenu for tabs*/
+
+.tableImage{
+    max-width: 64px;
+    max-height: 64px;
+}
+
+.noImage{
+    font-style: italic;
+}

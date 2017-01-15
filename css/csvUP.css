@@ -1,0 +1,23 @@
+fieldset{
+    width:600px;
+    margin: 0 auto;
+}
+legend{
+    font-weight:bold;
+    font-size:14px;
+}
+label{
+    float:left;
+    width:180px;
+    margin-left:30px;
+}
+.ssleft{
+    margin-left:350px;
+}
+.input{
+    width:170px;
+}
+
+.bdleft{
+    margin-left:210px;
+}

@@ -1,0 +1,28 @@
+fieldset{
+    width:600px;
+    margin: 0 auto;
+}
+legend{
+    font-weight:bold;
+    font-size:14px;
+}
+label{
+    float:left;
+    width:180px;
+    margin-left:10px;
+}
+.lleft{
+    margin-left:190px;
+}
+.input{
+    width:150px;
+}
+
+.filterForm {
+    position:static;
+/*    width: 100px;*/
+}
+.filterForm label{
+    float:right;
+    width: 600px;
+}
